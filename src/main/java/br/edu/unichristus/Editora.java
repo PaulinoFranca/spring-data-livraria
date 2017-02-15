@@ -26,10 +26,6 @@ public class Editora {
 		return editoraID;
 	}
 
-	public void setEditoraID(Long editoraID) {
-		this.editoraID = editoraID;
-	}
-
 	public String getNome() {
 		return nome;
 	}

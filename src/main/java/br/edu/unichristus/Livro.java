@@ -22,10 +22,6 @@ public class Livro {
 		return livroID;
 	}
 
-	public void setLivroID(Long livroID) {
-		this.livroID = livroID;
-	}
-
 	public String getTitulo() {
 		return titulo;
 	}
